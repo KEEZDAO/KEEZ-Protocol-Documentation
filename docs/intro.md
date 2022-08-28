@@ -5,5 +5,4 @@ slug: /
 
 # KEEZ Protocol
 
-Test4
-
+Overview of the project
