@@ -52,10 +52,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KEEZ Docs',
+        title: '',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/keez-logo.png',
+          alt: 'KEEZ Protocol Logo',
+          src: 'img/logo-light.png',
+          srcDark: 'img/logo-dark.png'
         },
         items: [
           {
