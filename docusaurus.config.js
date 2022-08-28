@@ -9,7 +9,7 @@ const config = {
   title: 'KEEZ Documentation',
   tagline: 'KEEZ are cool',
   url: 'https://docs.keezprotocol.io',
-  baseUrl: '/KEEZ-Protocol-Documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
