@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[938],{8135:t=>{t.exports=JSON.parse('{"title":"Contracts","slug":"/category/contracts","permalink":"/docs/category/contracts","navigation":{"previous":{"title":"KEEZ Protocol","permalink":"/docs/"},"next":{"title":"DAO","permalink":"/docs/contracts/dao"}}}')}}]);
