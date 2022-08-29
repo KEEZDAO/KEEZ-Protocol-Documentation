@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'KEEZ Documentation',
   tagline: 'KEEZ are cool',
-  url: 'https://keezdao.github.io/KEEZ-Protocol-Documentation/',
+  url: 'https://keezdao.github.io/',
   baseUrl: '/KEEZ-Protocol-Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
