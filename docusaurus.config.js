@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/KEEZ-Protocol-Documentation',
+                to: '/',
               },
             ],
           },
