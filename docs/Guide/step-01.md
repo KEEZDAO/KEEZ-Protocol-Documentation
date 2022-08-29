@@ -1,5 +1,5 @@
 # Step 1 - Connect Universal Profile
-![Home Page](./Home_Page_1.PNG)
+![Home Page](./img/step-01-home-page/Home_Page_1.PNG)
 
 ### Step 1A: Connect your UP!
 Connect your Universal Profile to the KEEZ Protocol website.

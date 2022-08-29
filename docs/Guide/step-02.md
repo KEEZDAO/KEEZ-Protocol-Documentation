@@ -1,7 +1,7 @@
 # Step 2 - Create a DAO
 
 ### Step 2A - Create A DAO
-![2A](./Create-A-DAO-Page-01.PNG)
+![2A](./img/step-02-create-dao/Create-A-DAO-Page-00.PNG)
 
 Hover over the **Get Started** tab and select **Create**.
 
@@ -10,7 +10,7 @@ This brings you to a new page where you can create a Universal Profile for your 
 ---
 
 ### Step 2B - Enter Information
-![2B](./Create-A-DAO-Page-02.PNG)
+![2B](./img/step-02-create-dao/Create-A-DAO-Page-01.PNG)
 
 Here you will enter the DAO's name, logo, category, and a description. This information is displayed on the DAO’s profile page and profile cards.
 
@@ -19,7 +19,7 @@ Click the **Next** button to continue to the next page.
 ---
 
 ### Step 2C - Create your Key Permissions
-![2C](./Create-A-DAO-Page-03.PNG)
+![2C](./img/step-02-create-dao/Create-A-DAO-Page-02.PNG)
 Next, you will begin adding members to the DAO and assigning key permissions to each member. 
 
 To add a member, you need to enter their Universal Profile Address into the text box. Then assign key permissions to the Universal Profile Address, 
@@ -35,7 +35,7 @@ Click the **Next** button to continue to the next page.
 ---
 
 ### Step 2D - Create Your Vault
-![2D](./Create-A-DAO-Page-04.PNG)
+![2D](./img/step-02-create-dao/Create-A-DAO-Page-03.PNG)
 The next step is to create a vault for the DAO. A vault is a storage location for various assets and data. It is controlled by multiple Universal Profiles through a multisig.
 
 Here you will 
@@ -48,7 +48,7 @@ Click **Next** when you are satisfied with multisig members.
 ---
 
 ### Step 2E - Create Your Default Voting Parameters
-![2E](./Create-A-DAO-Page-05.PNG)
+![2E](./img/step-02-create-dao/Create-A-DAO-Page-04.PNG)
 
 Next, you will decide your DAOs default voting parameters. These parameters include
 
@@ -57,3 +57,8 @@ Next, you will decide your DAOs default voting parameters. These parameters incl
 - **Voting Delay** - the period in which a proposal is open for viewing but unable to be voted on. This gives a chance for the community to research the topic and have a discussion before voting.
 - **Voting Period** - the period a proposal is open for voting.
 - **Execution Delay** - the period after voting has ended and between when the result is executed. 
+
+---
+
+### Step 2F - Submit your DAO
+![2E](./img/step-02-create-dao/Create-A-DAO-Page-05.PNG)
