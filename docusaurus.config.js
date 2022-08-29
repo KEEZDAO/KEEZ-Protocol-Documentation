@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'KEEZ Documentation',
   tagline: 'KEEZ are cool',
-  url: 'https://keezdao.github.io/',
-  baseUrl: '/KEEZ-Protocol-Documentation/',
+  url: 'https://docs.keezprotocol.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -34,7 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/KEEZ-Protocol-Documentation/',
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
