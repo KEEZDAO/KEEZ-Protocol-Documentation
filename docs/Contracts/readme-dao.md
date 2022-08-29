@@ -1,6 +1,4 @@
----
-title: DAO
----
+# DAO
 
 ## Public methods
 

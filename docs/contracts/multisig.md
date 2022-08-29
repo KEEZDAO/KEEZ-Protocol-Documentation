@@ -1,6 +1,0 @@
----
-title: Multisig
----
-
-# Multisig Contracts
-
