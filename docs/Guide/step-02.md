@@ -27,7 +27,7 @@ Next, you will add members to the DAO and assigning key permissions to each memb
 
 ![2-2](./img/step-02-create-dao/2-2.gif)
 
-#### 1. Enter a members Universal Profile Address into the text box. 
+#### 1. Enter a members Universal Profile address into the text box. 
 #### 2. Uses the checkboxes to choose key permissions for the member being added
 
 The following Key Permission can be assigned DAO members:
