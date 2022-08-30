@@ -33,17 +33,17 @@ The information in this step is displayed on the DAO’s profile page and profil
 Currently, DAO Name and Logo can not be changed after the creation process
 :::
 
-:::note
-If you need to make changes during the creation process, the progress bar (below) may be used to go back to any step.
-![Progress Bar](./img/2-2_bar.png)
-:::
+
 
 Enter your DAO's name, logo, category, and a description. 
 
 Click **Next** to proceed to the next step.
 
 ---
-
+:::note
+If you need to make changes during the creation process, the progress bar (below) may be used to go back to any step.
+![Progress Bar](./img/2-2_bar.png)
+:::
 
 ### Step 2 - Create your Key Permissions
 
