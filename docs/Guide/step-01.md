@@ -1,16 +1,21 @@
-# Step 1 - Connect Universal Profile
+---
+title: Getting Started
+---
+
+
 ![Home Page](./img/step-01-home-page/Home_Page_1.PNG)
 
-### Step 1A: Connect your UP!
-Connect your Universal Profile to the KEEZ Protocol website.
-If you do not have a Universal Profile, you must first download the LUKSO browser extension and create a profile. Instructions on downloading the LUKSO browser extension and creating a Universal Profile can be found on the LUKSO docs website linked here.
 
-### Step 1B: Select the Get Started tab
-Choose one of the following:
+### Connect your Universal Profile to the KEEZ Protocol website.
 
-* Create brings you to the Create a DAO page, where you will fill in details about your DAO and simultaneously create a Universal Profile for your DAO.
-* Governance brings you to the DAOs that you have key permissions in. From there you can vote and propose in the DAO.
+:::info Need a Universal Profile?
+If you do not have a Universal Profile, follow the [**Install the UP Browser Extension**](https://docs.lukso.tech/guides/browser-extension/install-browser-extension) guide on LUKSO's website.
 
+:::
 
-### Step 1C: Discover
-Select the Discover tab to see all active DAOs on the KEEZ protocol. Here you can filter through DAOs based on various categories and join DAOs that interest you. 
+### Get Started
+Hover over the **Get Started** and choose one of the options below:
+
+* **Create** guides you through the process of creating a DAO. You will fill in details about your DAO and simultaneously create a Universal Profile for your DAO. Follow the [Create a DAO](./step-02.md) guide to proceed.
+
+* **Governance** displays the DAOs for which you have key permissions. From there you can vote and propose in the DAO. Follow the [Governance](./step-03.md) guide to proceed.
