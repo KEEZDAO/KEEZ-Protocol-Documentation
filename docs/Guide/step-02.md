@@ -53,7 +53,7 @@ Next, you will add members to the DAO and assigning key permissions to each memb
 You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
 :::
 
-The following Key Permission can be assigned DAO members:
+The following Key Permission can be assigned to DAO members:
 
 |Key Permission  |Description  |
 |---------|---------|
