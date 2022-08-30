@@ -13,7 +13,7 @@ To create a new proposal, a member must have the proposal key permission.
 
 ---
 ### Step 2 - Select a Proposal Template
-![4-1](./img/step-04%20-create-proposal/Create_A_Proposal_Page_1.png)
+![4-2-0](./img/4-2-0_template.png)
 
 There are four proposal templates to choose from. Select a template from the tab below:
 
@@ -24,7 +24,7 @@ There are four proposal templates to choose from. Select a template from the tab
 #### Voting Parameters Template
 This proposal will allow you to change the default voting parameters of the DAO. For more information, see the information boxes next to the choices. 
 
-![4-2](./img/step-04%20-create-proposal/Create_A_Proposal_Page_2.png)
+![4-2-1](./img/4-2-1_parameters.png)
 
 </TabItem>
 
@@ -33,7 +33,7 @@ This proposal will allow you to change the default voting parameters of the DAO.
 #### Send Tokens From DAO Template
 This proposal allows you to send tokens from a vault to another Universal Profile Address. For more information, see the information boxes next to the choices. 
 
-![4-3](./img/step-04%20-create-proposal/Create_A_Proposal_Page_3.png)
+![4-2-2](./img/4-2-2_send_tokens.png)
 
 </TabItem>
 
@@ -42,7 +42,7 @@ This proposal allows you to send tokens from a vault to another Universal Profil
 #### Add & Revoke Permissions Template
 This proposal will allow you to add and revoke key permissions from members of the DAO. For more information, see the information boxes next to the choices. 
 
-![4-4](./img/step-04%20-create-proposal/Create_A_Proposal_Page_4.png)
+![4-2-3](./img/4-2-3_permissions.png)
 
 </TabItem>
 
@@ -51,7 +51,7 @@ This proposal will allow you to add and revoke key permissions from members of t
 #### General
 This proposal is a general template for decisions that don't have smart contract execution. For more information, see the information boxes next to the choices. 
 
-![4-5](./img/step-04%20-create-proposal/Create_A_Proposal_Page_5.png)
+![4-2-4](./img/4-2-4_general.png)
 
 </TabItem>
 
@@ -59,7 +59,7 @@ This proposal is a general template for decisions that don't have smart contract
 
 ---
 ### Step 3 - Edit and Submit
-![4-6](./img/step-04%20-create-proposal/Create_A_Proposal_Page_6.png)
+![4-3](./img/4-3_submit.png)
 
 This page will show the proposal preview before posting it to the DAO profile page. 
 
