@@ -37,7 +37,6 @@ Repeat the above steps to add additional members.
 
 Click **Next** after all members are added.
 
-
 ---
 
 ### Step 3 - Create Your Vault
@@ -68,3 +67,9 @@ Next, you will decide your DAOs default voting parameters. These parameters incl
 
 ### Step 5 - Submit your DAO
 ![2E](./img/step-02-create-dao/Create-A-DAO-Page-05.PNG)
+
+This page summarizes the information you have input and allows you to edit any of these features. 
+
+Once satisfied, use the Submit button to create your DAO Universal Profile.
+
+You can visit your DAO’s profile through the governance page.
