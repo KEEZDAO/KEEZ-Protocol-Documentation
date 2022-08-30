@@ -30,7 +30,7 @@ The information in this step is displayed on the DAO’s profile page and profil
 :::
 
 :::caution
-Currently, DAO Name and Logo can not be changed after the creation process
+DAO Name and Logo can not be changed after the creation process.
 :::
 
 
