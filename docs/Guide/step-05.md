@@ -1,4 +1,4 @@
-# DAOs Page
+# Discover DAOs
 
 ![5-0](./img/step-05-discover-daos/Discover_DAO_Page_0.png)
 
