@@ -50,23 +50,12 @@ If you need to make changes during the creation process, the progress bar (below
 Next, you will add members to the DAO and assigning key permissions to each member.
 
 :::info
-You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
+For a description of the key permission, visit the [FAQ Page](../faq#what-are-the-key-permissions-and-what-do-they-do)
 :::
 
-The following Key Permission can be assigned to DAO members:
-
-|Key Permission  |Description  |
-|---------|---------|
-|Vote | allows a member to vote on proposals on the DAO profile page     |
-|Propose | allows a member to make proposals on the DAO profile page and in the governance tab       |
-|Register Votes | allows a member to register the signatures (votes) on a proposal after the voting period has ended. Vote must be registered to enable the execution of a proposal.    |
-|Execute | allows a member to push a proposal result once votes have been registered by a member with the register vote              permission|
-|Add Permission | allows the member to assign permissions to other members         |
-|Remove Permissions | allows the member to revoke permissions from other members         |
-|Send Delegate | allow a member to delegate their vote to other members who have the Receive Delegate Key         |
-|Receive Delegate   |allows a members to vote on behalf of another member         |
-
-
+:::tip
+You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
+:::
 
 #### 1 - Enter a members Universal Profile address into the text box. 
 #### 2 - Uses the checkboxes to choose key permissions for the member being added
