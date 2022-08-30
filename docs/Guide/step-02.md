@@ -4,31 +4,54 @@ title: Create a DAO
 
 
 
-![2A](./img/step-02-create-dao/Create-A-DAO-Page-00.PNG)
+
+
+
+
+
 
 Hover over the **Get Started** tab and select **Create**.
 
+![Create Dao](./img/2-1_create.png)
+
+
 This brings you to a new page where you can create a Universal Profile for your DAO.
+
 
 ---
 
 ### Step 1 - Enter Information
-![2B](./img/step-02-create-dao/Create-A-DAO-Page-01.PNG)
+![2B](./img/2-2_create_dao.png)
 
-Here you will enter the DAO's name, logo, category, and a description. This information is displayed on the DAO’s profile page and profile cards.
 
-Click the **Next** button to continue to the next page.
+
+:::info
+The information in this step is displayed on the DAO’s profile page and profile cards.
+:::
+
+:::caution
+Currently, DAO Name and Logo can not be changed after the creation process
+:::
+
+:::note
+If you need to make changes during the creation process, the progress bar (below) may be used to go back to any step.
+![Progress Bar](./img/2-2_bar.png)
+:::
+
+Enter your DAO's name, logo, category, and a description. 
+
+Click **Next** to proceed to the next step.
 
 ---
+
 
 ### Step 2 - Create your Key Permissions
 
 Next, you will add members to the DAO and assigning key permissions to each member.
 
-![2-2](./img/step-02-create-dao/2-2.gif)
-
-#### 1. Enter a members Universal Profile address into the text box. 
-#### 2. Uses the checkboxes to choose key permissions for the member being added
+:::info
+You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
+:::
 
 The following Key Permission can be assigned DAO members:
 
@@ -43,33 +66,38 @@ The following Key Permission can be assigned DAO members:
 |Send Delegate | allow a member to delegate their vote to other members who have the Receive Delegate Key         |
 |Receive Delegate   |allows a members to vote on behalf of another member         |
 
-#### 3. Click the <u>Add Member</u> button next to the text box to add the member. 
 
-:::info
-You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
-:::
 
-Repeat the above steps to add additional members. 
+#### 1 - Enter a members Universal Profile address into the text box. 
+#### 2 - Uses the checkboxes to choose key permissions for the member being added
+#### 3 - Click the <u>Add Member</u> button next to the text box to add the member.
 
-Click **Next** after all members are added.
+Example of adding your first member:
+![2-2](./img/2-2_member1.gif)
+
+#### 4 - Add additional members by clearing the Universal Profile address and checkboxes, then repeat the steps 1-3 above.
+
+Example of adding additional members:
+![2-2](./img/2-2_member2.gif)
+
+After all members have been added, click **Next** to proceed to the next step.
 
 ---
 
 ### Step 3 - Create Your Vault
-![2D](./img/step-02-create-dao/Create-A-DAO-Page-03.PNG)
-The next step is to create a vault for the DAO. A vault is a storage location for various assets and data. It is controlled by multiple Universal Profiles through a multisig.
+![2D](./img/2-3_valut.png)
+A vault is a storage location for various assets and data. It is controlled by a multisig through multiple members' Universal Profiles. Follow the steps below to create a vault.
 
-Here you will 
-* Enter a vault name (e.g., Main Vault, Dev Vault, etc.), 
-* Add members to the multisig for the UP
-* Input the percentage of multisig members needed to sign a transaction. 
+#### 1 - Enter a vault name (e.g., Main Vault, Dev Vault, etc.), 
+#### 2 - Add members to the multisig for the UP
+#### 3 - Input the percentage of multisig members needed to sign a transaction. 
 
-Click **Next** when you are satisfied with multisig members.
+Click **Next** to proceed to the next step.
 
 ---
 
 ### Step 4 - Create Your Default Voting Parameters
-![2E](./img/step-02-create-dao/Create-A-DAO-Page-04.PNG)
+![2E](./img/2-3_valut.png)
 
 Next, you will decide your DAOs default voting parameters. These parameters include
 
@@ -82,10 +110,18 @@ Next, you will decide your DAOs default voting parameters. These parameters incl
 ---
 
 ### Step 5 - Submit your DAO
-![2E](./img/step-02-create-dao/Create-A-DAO-Page-05.PNG)
+![2E](./img/2-5_summary.png)
 
-This page summarizes the information you have input and allows you to edit any of these features. 
+The summary page displays the information you have input and allows you to edit any of the steps in the creation process. 
 
 Once satisfied, use the Submit button to create your DAO Universal Profile.
 
-You can visit your DAO’s profile through the governance page.
+When prompted by the Universal Profile browser extension, click and hold on the **Long Click to confirm** button to sign the transaction.
+
+<div style={{textAlign: 'center'}}>
+
+![2E](./img/2-6_submit.png)
+
+</div>
+
+You can visit your DAO’s profile through the governance page, which is covered in the next step [Participate in Governance](step-03.md)
