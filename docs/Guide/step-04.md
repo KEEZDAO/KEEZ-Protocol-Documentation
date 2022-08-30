@@ -5,8 +5,19 @@ title: Create a Proposal
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-### Step 1 - Click the **Create Proposal** button
-![4-0](./img/step-04%20-create-proposal/Create_A_Proposal_Page_0.png)
+### Step 1 - Navigate to the Governance page
+<div style={{textAlign: 'center'}}>
+
+![3-1](./img/3-1_governance.png)
+
+</div>
+
+Hover over the **Getting Started** tab and click **Governance**
+
+This page displays the DAOs that have assigned you key permissions.
+
+To create a proposal, selecting a DAO and click the **Propose** button.
+
 :::info
 To create a new proposal, a member must have the proposal key permission.
 :::
