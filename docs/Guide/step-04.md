@@ -1,20 +1,18 @@
+---
+title: Create a Proposal
+---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Step 4 - Create A Proposal
-
-### Step 4A - Click the **Create Proposal** button
-
+### Step 1 - Click the **Create Proposal** button
 ![4-0](./img/step-04%20-create-proposal/Create_A_Proposal_Page_0.png)
-
 :::info
 To create a new proposal, a member must have the proposal key permission.
 :::
 
-Click on the **Create Proposal** button. 
-
 ---
-### Step 4B - Select a Proposal Template
+### Step 2 - Select a Proposal Template
 ![4-1](./img/step-04%20-create-proposal/Create_A_Proposal_Page_1.png)
 
 There are four proposal templates to choose from. Select a template from the tab below:
@@ -60,7 +58,7 @@ This proposal is a general template for decisions that don't have smart contract
 </Tabs>
 
 ---
-### Step 4C - Edit and Submit
+### Step 3 - Edit and Submit
 ![4-6](./img/step-04%20-create-proposal/Create_A_Proposal_Page_6.png)
 
 This page will show the proposal preview before posting it to the DAO profile page. 

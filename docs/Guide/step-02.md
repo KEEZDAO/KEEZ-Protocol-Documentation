@@ -22,12 +22,28 @@ Click the **Next** button to continue to the next page.
 ---
 
 ### Step 2 - Create your Key Permissions
-![2-2](./img/step-02-create-dao/2-2.gif)
-Next, you will add members to the DAO and assigning key permissions to each member. 
 
-1. Enter a members Universal Profile Address into the text box. 
-1. Uses the checkboxes to choose key permissions for the member being added
-1. Click the blue circular button next to the text box to add the member. 
+Next, you will add members to the DAO and assigning key permissions to each member.
+
+![2-2](./img/step-02-create-dao/2-2.gif)
+
+#### 1. Enter a members Universal Profile Address into the text box. 
+#### 2. Uses the checkboxes to choose key permissions for the member being added
+
+The following Key Permission can be assigned DAO members:
+
+|Key Permission  |Description  |
+|---------|---------|
+|Vote | allows a member to vote on proposals on the DAO profile page     |
+|Propose | allows a member to make proposals on the DAO profile page and in the governance tab       |
+|Register Votes | allows a member to register the signatures (votes) on a proposal after the voting period has ended. Vote must be registered to enable the execution of a proposal.    |
+|Execute | allows a member to push a proposal result once votes have been registered by a member with the register vote              permission|
+|Add Permission | allows the member to assign permissions to other members         |
+|Remove Permissions | allows the member to revoke permissions from other members         |
+|Send Delegate | allow a member to delegate their vote to other members who have the Receive Delegate Key         |
+|Receive Delegate   |allows a members to vote on behalf of another member         |
+
+#### 3. Click the <u>Add Member</u> button next to the text box to add the member. 
 
 :::info
 You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
