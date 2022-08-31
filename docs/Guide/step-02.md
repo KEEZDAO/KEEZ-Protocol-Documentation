@@ -47,7 +47,7 @@ If you need to make changes during the creation process, the progress bar (below
 
 ### Step 2 - Create your Key Permissions
 
-Next, you will add members to the DAO and assigning key permissions to each member.
+Next, you will add members to the DAO and assign key permissions to each member.
 
 :::info
 For a description of the key permission, visit the [FAQ Page](../faq#what-are-the-key-permissions-and-what-do-they-do)
@@ -58,7 +58,7 @@ You can add as many members as you’d like with any combination of permissions.
 :::
 
 #### 1 - Enter a members Universal Profile address into the text box. 
-#### 2 - Uses the checkboxes to choose key permissions for the member being added
+#### 2 - Use the checkboxes to choose key permissions for the member being added
 #### 3 - Click the <u>Add Member</u> button next to the text box to add the member.
 
 Example of adding your first member:
@@ -86,7 +86,7 @@ Click **Next** to proceed to the next step.
 ---
 
 ### Step 4 - Create Your Default Voting Parameters
-![2E](./img/2-3_valut.png)
+![2E](./img/2-4_parameters.png)
 
 Next, you will decide your DAOs default voting parameters. These parameters include
 
