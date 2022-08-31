@@ -59,12 +59,12 @@ const config = {
           srcDark: 'img/logo-dark.png'
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Docs',
-          },
+          // {
+          //  type: 'doc',
+          //  docId: 'faq',
+          //  position: 'left',
+          //  label: 'Docs',
+          //},
           {
             href: 'https://github.com/KEEZdao',
             label: 'GitHub',

@@ -1,11 +1,6 @@
-
-
-KEEZ Protocol, powered by KEEZ DAO, allows individuals to create a DAO using a Universal Profile (UP). Through the smart contract based tools provided by LUKSO, we are able to entirely reinvent how DAOs onboard members, participate in governance, and manage their operation. Our mission is to create DAOs built on UPs that are viable as organizations of the future.
-
-
-
-
-## Expanded Project Explanation
+---
+slug: /
+---
 By Sage Bray  
 
 This hackathon has been very valuable for the KEEZ Protocol Team and the KEEZ community. Building with LUSKO standards, interacting with the LUKSO team and community, and creating a dApp has strengthened us. At this time, our team has produced a site that allows a blockchain-based identity to create a DAO using LSP0, the Universal Profile (UP). With the UP, the DAO can onboard members through the LSP6 (key manager), create a vault (LSP9) for data and asset management, and govern the DAO. These ideas can be further developed to make a full DAO stack run through a single UP. For now, our Minimum Viable Product (MVP) allows for essential DAO functions. This doc will highlight what we have accomplished in these six weeks and what we would like to improve/add moving forward. 
