@@ -18,6 +18,8 @@ This page displays the DAOs that have assigned you key permissions.
 
 Select a DAO and click the **Propose** button to create a proposal.
 
+![Propose](./img/4-1_propose.png)
+
 :::info
 To create a new proposal, a member must have the proposal key permission.
 :::
