@@ -49,9 +49,18 @@ You can click on the progress bar (below) to go back and make changes to any ste
 
 Next, you will add members to the DAO and assign key permissions to each member.
 
-:::info
-For a description of the key permission, visit the [FAQ Page](../faq#what-are-the-key-permissions-and-what-do-they-do)
-:::
+Key permissions enable assigning roles and responsibilities to specific DAO members, a feature made possible by the innovative standards LUKSO has created.
+
+Key Permission  |Description  |
+|---------|---------|
+|Vote | Allows a member to vote on proposals on the DAO profile page     |
+|Propose | Allows a member to make proposals on the DAO profile page and in the governance tab       |
+|Register Votes | Allows a member to register the signatures (votes) on a proposal after the voting period has ended. Votes must be registered to enable the execution of a proposal.    |
+|Execute | Allows a member to push a proposal result once votes have been registered by a member with the Register Vote permission|
+|Add Permission | Allows a member to assign permissions to other members         |
+|Remove Permissions | Allows a member to revoke permissions from other members         |
+|Send Delegate | Allow a member to delegate their vote to other members who have the Receive Delegate permission         |
+|Receive Delegate   |Allows a members to vote on behalf of another member         |
 
 :::tip
 You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 

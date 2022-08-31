@@ -28,7 +28,7 @@ To create a new proposal, a member must have the proposal key permission.
 ### Step 2 - Select a Proposal Template
 ![4-2-0](./img/4-2-0_template.png)
 
-There are four proposal templates to choose from. Select a template from the tab below:
+There are four proposal templates to help guide users through common proposal types. The four tabs below provide information about teach template.
 
 <Tabs>
 
