@@ -16,3 +16,17 @@ Key Permission  |Description  |
 |Remove Permissions | Allows a member to revoke permissions from other members         |
 |Send Delegate | Allow a member to delegate their vote to other members who have the Receive Delegate permission         |
 |Receive Delegate   |Allows a members to vote on behalf of another member         |
+
+## What are my options for voting parameters?
+
+**Participation rate** - the minimum percentage of the total DAO members needed to vote on a proposal for it to be executed.
+
+**Majority** - the minimum percentage of votes needed on a proposal option to execute the result (i.e., if there is a 66% majority and the votes come in at 51% yes, the proposal is not passed).
+
+**Voting Delay** - the period in which a proposal is open for viewing but unable to be voted on. This gives a chance for the community to research the topic and have a discussion before voting.
+
+**Voting Period** - the period a proposal is open for voting.
+
+**Execution Delay** - the period after voting has ended and between when the result is executed.
+
+## What are Vaults?
