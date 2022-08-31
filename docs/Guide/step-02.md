@@ -30,18 +30,18 @@ The information in this step is displayed on the DAO’s profile page and profil
 :::
 
 :::caution
-DAO Name and Logo can not be changed after the creation process.
+A DAO's Name and Logo can not be changed after the creation process.
 :::
 
 
 
-Enter your DAO's name, logo, category, and a description. 
+Enter your DAO's name, logo, category, and description. 
 
 Click **Next** to proceed to the next step.
 
 ---
-:::note
-If you need to make changes during the creation process, the progress bar (below) may be used to go back to any step.
+:::tip
+You can click on the progress bar (below) to go back and make changes to any step.
 ![Progress Bar](./img/2-2_bar.png)
 :::
 
@@ -57,19 +57,19 @@ For a description of the key permission, visit the [FAQ Page](../faq#what-are-th
 You can add as many members as you’d like with any combination of permissions. Make sure to include all members needed for the multisig. 
 :::
 
-#### 1 - Enter a members Universal Profile address into the text box. 
+#### 1 - Enter a member's Universal Profile address into the text box. 
 #### 2 - Use the checkboxes to choose key permissions for the member being added
 #### 3 - Click the <u>Add Member</u> button next to the text box to add the member.
 
 Example of adding your first member:
 ![2-2](./img/2-2_member1.gif)
 
-#### 4 - Add additional members by clearing the Universal Profile address and checkboxes, then repeat the steps 1-3 above.
+#### 4 - Add additional members by clearing the Universal Profile address and checkboxes, then repeat steps 1-3 above.
 
 Example of adding additional members:
 ![2-2](./img/2-2_member2.gif)
 
-After all members have been added, click **Next** to proceed to the next step.
+After all your members have been added, click **Next** to proceed to the next step.
 
 ---
 

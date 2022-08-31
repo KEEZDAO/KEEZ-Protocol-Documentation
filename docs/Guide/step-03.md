@@ -50,7 +50,7 @@ The status of a proposal can be one of three possibilities:
 
 ![3-3](./img/3-info_sidebar.png)
 
-On the sidebar, you can explore the DAOs about section and current members.
+You can explore the DAOs about section and current members on the sidebar.
 </div>
 
 :::

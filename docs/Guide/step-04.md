@@ -16,7 +16,7 @@ Hover over the **Getting Started** tab and click **Governance**
 
 This page displays the DAOs that have assigned you key permissions.
 
-To create a proposal, selecting a DAO and click the **Propose** button.
+Select a DAO and click the **Propose** button to create a proposal.
 
 :::info
 To create a new proposal, a member must have the proposal key permission.
